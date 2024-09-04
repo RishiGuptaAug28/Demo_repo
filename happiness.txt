@@ -3,3 +3,6 @@ study para 1
 study para 2
 
 study para 3
+
+
+delete para 3
